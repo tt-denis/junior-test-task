@@ -1,0 +1,35 @@
+.promo {
+    min-height: 800px;
+    padding-top: 117px;
+    background: url(../../img/intro-bg.jpg) center (center/cover) no-repeat;
+
+    &__logo {
+        margin-top: 13px;
+    }
+    &__title {
+        margin-top: 42px;
+        font-weight: 300;
+        font-size: 44px;
+        line-height: 45px;
+        color: #FFFFFF;
+        }
+    &__subtitle {
+        margin-top: 20px;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 30px;
+        color: #FFFFFF;
+        
+    }
+    &__btn {
+        margin-top: 30px;
+        width: 200px;
+        height: 50px;
+        background: #FDB913;
+        border-radius: 50px;
+        font-size: 14px;
+        line-height: 14px;
+        font-weight: 700;
+        color: #FFFFFF;
+    }
+}
